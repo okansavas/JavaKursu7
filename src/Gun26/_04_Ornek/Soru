@@ -1,0 +1,5 @@
+// 1.Adim: Rectangle bir tip tanimlayiniz.
+//    özellikleri: width(int), length(int)
+// 2.Adim: Cevresini bulmak üzere Cevre isminde bir method yaziniz.
+// 3.Adim: Alanini bulmak üzere Alan isimli bir method yaziniz.
+// 4.Adim: 1 tane nesneye deger vererek motodlarin sonuclarini yazdidiriniz.

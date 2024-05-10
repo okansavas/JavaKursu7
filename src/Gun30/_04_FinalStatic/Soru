@@ -1,0 +1,5 @@
+// Sabitler isimli bir class da sabit bir sekilde
+// bir gündeki saat sayisi, bir saattaki dakika sayisi ve
+// bir dakikadaki saniye sayisini tanimlayiniz.
+// mainde kullanilan gun, saat, dakika alarak toplam
+// saniyeyi bulunuz.

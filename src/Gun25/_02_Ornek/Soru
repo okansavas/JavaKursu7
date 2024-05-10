@@ -1,0 +1,4 @@
+// bir okulda kayit programi icin Ogrenci bilgilerini alan modul
+// yazilacaktir. Ogrenci ye ait bilgiler (adi, soyadi, sinifi, okulNo ve adres) vardir.
+// bu yapiyi olusturunuz.
+// Daha sonra bi ögrenci tanimlayip degerlerini verip yazdiriniz

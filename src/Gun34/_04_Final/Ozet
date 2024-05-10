@@ -1,0 +1,5 @@
+Final özet
+
+degiskenlerin basinda oldugunda DEGERI sonradan degistirilemez
+methodlarin basinda oldugunda OVERRIDE edilemezler
+class larin basinda oldugunda EXTEND edilemezler

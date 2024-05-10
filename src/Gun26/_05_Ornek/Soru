@@ -1,0 +1,23 @@
+// Musteri isimli (fields: name) isimli bir class tanimlayiniz.
+// ElektrikHesabi isimli (fields: toplamTüketim(int), birimFiyat(double) class tanimlayiniz)
+// Musteri ye bir Elektrik hesabi ekleyiniz.
+// 1 tane müsteri olusturunuz.
+// Musteriye ait her ay tüketilen enerjiyi toplayacak bir metod yaziniz.
+tüketimEkle olsun her verilen aylik rakami toplayarak biriktirsin
+
+// Ödenecek rakami toplam tüketimi birim fiyat(20) ile carparak hesaplatiniz ev faturayi yazdiriniz
+
+ipucu: hesabi olusturduktan sonra tuketimEkle metoduna 2, 3 ay tuketim ekletiniz, faturayi ondan
+sonra toplam alarak cikartiniz.
+
+
+public class EnerjiSa {
+main() {
+musteri1.ElektrikHesabi.tuketimEkle(100);
+musteri1.ElektrikHesabi.tuketimEkle(200);
+musteri1.ElektrikHesabi.tuketimEkle(50);
+
+musteri1.ElektrikHesabi.ToplamTuketimYaz();
+musteri1.ElektrikHesabi.FaturaYaz();
+}
+}

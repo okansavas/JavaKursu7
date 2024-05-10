@@ -1,0 +1,10 @@
+1- fieldlari ad, soyad, yas olan bir Ögrenci sinifi tanimlayiniz
+2- Ogrenci sinifina ad, soyad ve yas da olusan bir consructor tanimlayiniz
+3- Bütün fieldlar icin encapsulation uygulayiniz
+4- okul isimli bir class tanimlayiniz. fieldlari okulAd, kontenjan,
+Arraylist cinsinden ögrencileri olsun.
+5- main metodunun oldugu OkulMain isimli bir sinif olusturunuz.
+6- bir okul nesnesi olusturup bu okula max ögrenci miktarina ulasana kadar kullanicidan alarak
+ögrenci ekleyiniz. Fakat olusturacaginiz ögrencilerin max yasi 15 i gecmemeli.
+bu yasi gecen bir ögrenci eklemek istenirse yerine baska ögrenci isteyiniz
+7- Ögrencilerin hepsine essiz bir ID atamasi yapiniz.

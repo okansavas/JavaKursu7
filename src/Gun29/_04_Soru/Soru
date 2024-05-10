@@ -1,0 +1,6 @@
+// Hesap (yatan(int), cekilen(int), bakiye(int))
+// Musteri (musteriNo(int), ad, soyad, MusteriHesap(Hesap tipinde))
+// Bir banka uygulamasi icin 1 musteri tanimlayiniz,
+// musterinin hesabina sirasiyla 100 TL, 200 tl yatiriniz, sonra 50 tl cekiniz.
+// Müsterinin toplam yatani, toplam cekileni ve kalan bakiyesini yazdiriniz.
+// bakiyeye direkt para atanamadigini kontrol ediniz.

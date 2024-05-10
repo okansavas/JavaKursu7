@@ -1,0 +1,6 @@
+// bir otogaleri icin araba programi yapilmak isteniyor
+// Her arabanin arabaNo(int), marka(String) ve üretimYili (int) vardir.
+// Kullanicidan 20 araba icin bu bilgileri aliniz.
+// bütün arabalari bir metodda yazdiriniz.
+// galerinin üretimYili ortalamasini yine bir metodda yazdiriniz.
+// gerekli Class(lar) icin ayri dosya aciniz

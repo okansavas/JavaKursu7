@@ -1,0 +1,6 @@
+// bir banka class tanimlayiniz
+// 3 adet field ekleyiniz. (adi, subeSayisi, kurulusYili)
+// 3 adet constructor ekleyin.
+// toString metodu olusturun.
+// 3 tane nesne olusturup mainde yazdiriniz.
+

@@ -1,0 +1,21 @@
+Array: int[]
+index var: dizi[i] gibi
+ELEMAN TEKRARI OLABILIR
+fori (sira garanti, cunku index göre calisiyor)
+foreach (evet, sira garanti degil)
+boyut sabit
+
+ArrayList
+index var: get(i) gibi
+ELEMAN TEKRARI OLABILIR
+fori(sira garanti, cunku indexe göre calisiyor)
+foreach (evet, sira garanti degil)
+boyut sabit degil, degisken
+
+SET lerde
+index yok
+fori yok
+ELEMAN TEKRARI YOK
+boyut sabit degil, degisken
+foreach (evet, sira garanti degil)
+sira garanti istiyorsan (ITERATOR - ittirgec)

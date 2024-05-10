@@ -1,0 +1,4 @@
+// Bir araba nesnesi olusturulmak isteniyor
+// fields (Renk, Model(üretim yili), Motor Hacmi (1000, 1400, 1900, 2000, 6000), Kapi Sayisi)
+// Bu nesnenin verilerini OOP kurallarina uygun olarak verip aliniz.
+// Main de bir tane nesne olusturup bunu kontrol ediniz.
